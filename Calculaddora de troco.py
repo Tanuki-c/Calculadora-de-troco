@@ -1,7 +1,6 @@
 Conta = float(input(f"Digite o valor da conta: "))
 Entregue = float(input(f"Digite o valor entregue: "))
 Carteira = [200,100,50,25,10,5,1,0.5,0.25,0.1]
-I = 0
 
 Troco = Conta - Entregue
 
